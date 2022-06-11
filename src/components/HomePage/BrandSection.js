@@ -11,7 +11,7 @@ const brandsList = [brand1, brand2, brand3, brand4, brand5, brand6, brand7]
 
 const BrandSection = () => {
     return (
-        <div className='border-b border-[#c5cbe280]'>
+        <div>
 
             {/* <div className='main-container pt-[101px] pb-[127px]'>
               <h1 className='text-center'>Over <span className='text-redColor'>1.3 million</span> users and global brands trust us </h1>

@@ -31,6 +31,10 @@ module.exports = {
             backgroundImage: {
                 "heroBgColor": "linear-gradient(252.91deg, #E3E7F6 3.68%, rgba(227, 231, 246, 0) 97.82%);",
                 "awardBgColor": "linear-gradient(268.52deg, #E3E7F6 -52.27%, rgba(227, 231, 246, 0) 138.23%);",
+                "questionBgColor": "linear-gradient(342.12deg, #E3E7F6 -6.53%, rgba(227, 231, 246, 0) 87.81%);",
+
+                "aboutHeroBgColor": "linear-gradient(247.11deg, #E3E7F6 3.56%, rgba(227, 231, 246, 0) 115.17%);",
+                "aboutCultureBgColor": "linear-gradient(268.52deg, #E3E7F6 -52.27%, rgba(227, 231, 246, 0) 138.23%);",
             },
 
             boxShadow: {

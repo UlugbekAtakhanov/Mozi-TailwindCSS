@@ -6,15 +6,6 @@ const HeroSection = () => {
         <div className='bg-heroBgColor  overflow-hidden'>
             <div className='main-container relative'>
 
-                {/* <div className='pt-[229px] pb-[210px] w-1/2'>
-                    <h1 className='text-[48px] text-blueColor font-bold leading-[62px]'>We build products to simplify work for businesses</h1>
-                    <p className='text-[22px] leading-[33px] text-grayColor mt-[32px]'>Our next-gen products empower businesses to implement agility and accelerate growth. </p>
-                    <div className='mt-[40px] space-x-[16px]'>
-                        <button className='red-button'>Learn more</button>
-                        <button className='outline-button'>Work with us</button>
-                    </div>
-                </div> */}
-
                 <div className='pt-[110px] lg:pt-[229px] md:pt-[180px] pb-[250px] sm:pb-[200px] md:pb-[250px] lg:pb-[210px] text-center xs:text-left  sm:w-3/4 md:w-2/3 lg:w-1/2'>
                     <h1>We build products to simplify work for businesses</h1>
                     <h5 className=' text-grayColor mt-[25px] sm:mt-[32px]'>Our next-gen products empower businesses to implement agility and accelerate growth. </h5>

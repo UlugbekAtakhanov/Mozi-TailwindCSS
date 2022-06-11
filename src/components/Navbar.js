@@ -54,7 +54,7 @@ const Navbar = () => {
                     leaveFrom=" h-full opacity-100"
                     leaveTo=" h-0 opacity-0"
                 >
-                    <div className='fixed inset-0 bg-black flex items-center justify-center'>
+                    <div className='fixed inset-0 bg-[#0D123C] flex items-center justify-center'>
                         <div className='absolute top-5 right-5 z-0' style={{ display: menuOpen ? "block" : "none" }} onClick={() => setMenuOpen(false)}>
                             <svg xmlns="http://www.w3.org/2000/svg" className="h-8 w-8 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
                                 <path strokeLinecap="round" strokeLinejoin="round" d="M6 18L18 6M6 6l12 12" />

@@ -44,7 +44,7 @@
   }
   p {
     /* 16px */
-    @apply text-[16px] leading-[27px] text-grayColor
+    @apply text-[14px] sm:text-[16px] leading-[27px] text-grayColor
   }
 }
 
