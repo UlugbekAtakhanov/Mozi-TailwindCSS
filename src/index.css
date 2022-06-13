@@ -40,7 +40,7 @@
   }
   h6 {
     /* 18px */
-    @apply text-[18px]
+    @apply text-[14px] xs:text-[18px]
   }
   p {
     /* 16px */

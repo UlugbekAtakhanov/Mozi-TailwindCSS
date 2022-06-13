@@ -33,7 +33,7 @@ const Navbar = () => {
                     <li className='mr-[30px] md:mr-[60px] transition-all hover:text-redColor'><Link to="/products">Products</Link></li>
                     <li className='mr-[30px] md:mr-[60px] transition-all hover:text-redColor'><Link to="/about">About us</Link></li>
                     <li className='mr-[15px] md:mr-[30px] transition-all hover:text-redColor'><Link to="/contact">Contact</Link></li>
-                    <li className='red-button'><Link to="#">We're hiring</Link></li>
+                    <li className='red-button'><Link to="/career">We're hiring</Link></li>
                 </ul>
 
                 {/* hamburger */}
@@ -69,7 +69,7 @@ const Navbar = () => {
                             <li className=' transition-all hover:text-redColor'><Link onClick={() => setMenuOpen(false)} to="/products">Products</Link></li>
                             <li className=' transition-all hover:text-redColor'><Link onClick={() => setMenuOpen(false)} to="/about">About us</Link></li>
                             <li className=' transition-all hover:text-redColor'><Link onClick={() => setMenuOpen(false)} to="/contact">Contact</Link></li>
-                            <li className=' transition-all hover:text-redColor'><Link onClick={() => setMenuOpen(false)} to="#">We're hiring</Link></li>
+                            <li className=' transition-all hover:text-redColor'><Link onClick={() => setMenuOpen(false)} to="/career">We're hiring</Link></li>
                         </ul>
                     </div>
                 </Transition>

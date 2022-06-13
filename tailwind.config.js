@@ -35,6 +35,10 @@ module.exports = {
 
                 "aboutHeroBgColor": "linear-gradient(247.11deg, #E3E7F6 3.56%, rgba(227, 231, 246, 0) 115.17%);",
                 "aboutCultureBgColor": "linear-gradient(268.52deg, #E3E7F6 -52.27%, rgba(227, 231, 246, 0) 138.23%);",
+                
+                "careerLifeBgColor": "linear-gradient(270.76deg, #E3E7F6 -55.5%, rgba(227, 231, 246, 0) 145.36%);",
+                "careerQuestionBgColor": "linear-gradient(342.12deg, #E3E7F6 -6.53%, rgba(227, 231, 246, 0) 87.81%);",
+
             },
 
             boxShadow: {
