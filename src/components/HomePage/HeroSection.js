@@ -15,7 +15,7 @@ const HeroSection = () => {
                     </div>
                 </div>
 
-                <img className=' absolute bottom-0 right-0 lg:-right-[80px] xl:-right-[120px] w-[300px] xs:w-[60vw] sm:w-[55vw] lg:w-[68vw] xl:w-auto' src={heroImage} alt="" />
+                <img className=' absolute bottom-0 right-0 lg:-right-[80px] xl:-right-[120px] w-[300px] xs:w-[60vw] sm:w-[55vw] lg:w-[68vw] xl:w-auto' src={heroImage} alt="img" />
 
             </div>
         </div>

@@ -1,5 +1,6 @@
 {
   "name": "3-project1-upwork-design",
+  "homepage": "https://mozi-tailwindcss.netlify.app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
